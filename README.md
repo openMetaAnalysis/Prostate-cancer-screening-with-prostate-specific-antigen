@@ -1,4 +1,4 @@
-Stenting for renal artery stenosis to prevent cardiovascular complications
+Prostate cancer screening with prostate-specific antigen
 =================================
 
 A data-only living systematic review
@@ -15,12 +15,10 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen
-/master/forest-plots/Outcome-Primary.png "Principle results - forest plot")
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen/master/forest-plots/Outcome-Primary.png "Principle results - forest plot")
 
 The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen
-/master/metaregression/Outcome-Primary.png "Principle results - metaregression")
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen/master/metaregression/Outcome-Primary.png "Principle results - metaregression")
 
 References:
 ----------------------------------
@@ -36,8 +34,10 @@ References:
 None
 
 #### Trials included in the review above
-1. Schröder FH, Hugosson J, Roobol MJ, Tammela TL, Zappa M, Nelen V, Kwiatkowski M, Lujan M, Määttänen L, Lilja H, Denis LJ, Recker F, Paez A, Bangma CH, Carlsson S, Puliti D, Villers A, Rebillard X, Hakama M, Stenman UH, Kujala P, Taari K, Aus G, Huber A, van der Kwast TH, van Schaik RH, de Koning HJ, Moss SM, Auvinen A; ERSPC Investigators. Screening and prostate cancer mortality: results of the European Randomised Study of Screening for Prostate Cancer (ERSPC) at 13 years of follow-up. Lancet. 2014 Dec 6;384(9959):2027-35. doi: [10.1016/S0140-6736(14)60525-0](http://dx.doio.org/10.1016/S0140-6736(14)60525-0). PMID: [25108889](http://pubmed.gov/25108889).
-2. Hugosson J, Carlsson S, Aus G, Bergdahl S, Khatami A, Lodding P, Pihl CG, Stranne J, Holmberg E, Lilja H. Mortality results from the Göteborg randomised population-based prostate-cancer screening trial. Lancet Oncol. 2010 Aug;11(8):725-32. doi: [10.1016/S1470-2045(10)70146-7](http://dx.doio.org/10.1016/S1470-2045(10)70146-7). PMID: [20598634](http://pubmed.gov/20598634); PMCID: [PMC4089887](http://pubmedcentral.gov/PMC4089887).
+1. SchrÃ¶der FH, Hugosson J, Roobol MJ, Tammela TL, Zappa M, Nelen V, Kwiatkowski M, Lujan M, MÃ¤Ã¤ttÃ¤nen L, Lilja H, Denis LJ, Recker F, Paez A, Bangma CH, Carlsson S, Puliti D, Villers A, Rebillard X, Hakama M, Stenman UH, Kujala P, Taari K, Aus G, Huber A, van der Kwast TH, van Schaik RH, de Koning HJ, Moss SM, Auvinen A; ERSPC Investigators. Screening and prostate cancer mortality: results of the European Randomised Study of Screening for Prostate Cancer (ERSPC) at 13 years of follow-up. Lancet. 2014 Dec 6;384(9959):2027-35. doi: [10.1016/S0140-6736(14)60525-0](http://dx.doio.org/10.1016/S0140-6736(14)60525-0). PMID: [25108889](http://pubmed.gov/25108889).
+2. Hugosson J, Carlsson S, Aus G, Bergdahl S, Khatami A, Lodding P, Pihl CG, Stranne J, Holmberg E, Lilja H. Mortality results from the GÃ¶teborg randomised population-based prostate-cancer screening trial. Lancet Oncol. 2010 Aug;11(8):725-32. doi: [10.1016/S1470-2045(10)70146-7](http://dx.doio.org/10.1016/S1470-2045(10)70146-7). PMID: [20598634](http://pubmed.gov/20598634); PMCID: [PMC4089887](http://pubmedcentral.gov/PMC4089887).
 3. Andriole GL, Crawford ED, Grubb RL 3rd, Buys SS, Chia D, Church TR, Fouad MN, Gelmann EP, Kvale PA, Reding DJ, Weissfeld JL, Yokochi LA, O'Brien B, Clapp JD, Rathmell JM, Riley TL, Hayes RB, Kramer BS, Izmirlian G, Miller AB, Pinsky PF, Prorok PC, Gohagan JK, Berg CD; PLCO Project Team. Mortality results from a randomized prostate-cancer screening trial. N Engl J Med. 2009 Mar 26;360(13):1310-9. doi: [10.1056/NEJMoa0810696](http://dx.doio.org/10.1056/NEJMoa0810696). PMID: [19297565](http://pubmed.gov/19297565); PMCID: [PMC2944770](http://pubmedcentral.gov/PMC2944770).
 
-
+-------------------------------
+[Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
+[Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
