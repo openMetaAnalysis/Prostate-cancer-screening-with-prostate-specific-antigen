@@ -22,11 +22,12 @@ Calculation of PSA test intensity.
 | Trial               | A  | B |  C  |  D | Intensity
 | ------------------- |:--:|:-:|:---:|:---:|:---
 | PLCO                |  4 | 1 | 85% | 50% | 1.4 (estimtated with formula above)
-| ERSPC - not Göteborg| 13 | 4 | 60% | ?   | 2.1 (ERSPC. 2014. Table 1. Assumes rate = 0% in controls)
-| ERSPC - Göteborg    | 13 | 2 | 55% | ?   | 3.4 (ERSPC. 2014. Table 1. Assumes rate = 0% in controls)
+| ERSPC - not Göteborg| 13 | 4 | 60% | ?   | 2.1 (ERSPC. 2014. Reported in Table 1.<br>Assumes rate = 0% in controls)
+| ERSPC - Göteborg    | 13 | 2 | 55% | ?   | 3.4 (ERSPC. 2014. Reported in Table 1.<br>Assumes rate = 0% in controls)
   
 
 **Results:** Details of the studies included are in the:
+* [Explanation of Göteborg data](../../issues/1)
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
