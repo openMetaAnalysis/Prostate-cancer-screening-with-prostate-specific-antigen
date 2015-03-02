@@ -19,11 +19,11 @@ Calculation of PSA test intensity.
   * D = rate of testing in the control group
 
 
-| Trial             | A  | B |  C  |  D | Intensity
-| ----------------- |:--:|:-:|:---:|:---:|:---
-| PLCO              |  4 | 1 | 85% | 50% | 1.4 (estimtated with formula above)
-| ERSPC-not-Göteborg| 13 | 4 | 60% | ?   | 2.1 (ERSPC. 2014. Table 1. Assumes rate = 0% in controls)
-| ERSPC-Göteborg    | 13 | 2 | 55% | ?   | 3.4 (ERSPC. 2014. Table 1. Assumes rate = 0% in controls)
+| Trial               | A  | B |  C  |  D | Intensity
+| ------------------- |:--:|:-:|:---:|:---:|:---
+| PLCO                |  4 | 1 | 85% | 50% | 1.4 (estimtated with formula above)
+| ERSPC - not Göteborg| 13 | 4 | 60% | ?   | 2.1 (ERSPC. 2014. Table 1. Assumes rate = 0% in controls)
+| ERSPC - Göteborg    | 13 | 2 | 55% | ?   | 3.4 (ERSPC. 2014. Table 1. Assumes rate = 0% in controls)
   
 
 **Results:** Details of the studies included are in the:
@@ -51,7 +51,8 @@ None
 #### Trials included in the review above
 1. Schröder FH, Hugosson J, Roobol MJ, Tammela TL, Zappa M, Nelen V, Kwiatkowski M, Lujan M, Määttänen L, Lilja H, Denis LJ, Recker F, Paez A, Bangma CH, Carlsson S, Puliti D, Villers A, Rebillard X, Hakama M, Stenman UH, Kujala P, Taari K, Aus G, Huber A, van der Kwast TH, van Schaik RH, de Koning HJ, Moss SM, Auvinen A; ERSPC Investigators. Screening and prostate cancer mortality: results of the European Randomised Study of Screening for Prostate Cancer (ERSPC) at 13 years of follow-up. Lancet. 2014 Dec 6;384(9959):2027-35. doi: [10.1016/S0140-6736(14)60525-0](http://dx.doio.org/10.1016/S0140-6736(14)60525-0). PMID: [25108889](http://pubmed.gov/25108889).
 2. Hugosson J, Carlsson S, Aus G, Bergdahl S, Khatami A, Lodding P, Pihl CG, Stranne J, Holmberg E, Lilja H. Mortality results from the Göteborg randomised population-based prostate-cancer screening trial. Lancet Oncol. 2010 Aug;11(8):725-32. doi: [10.1016/S1470-2045(10)70146-7](http://dx.doio.org/10.1016/S1470-2045(10)70146-7). PMID: [20598634](http://pubmed.gov/20598634); PMCID: [PMC4089887](http://pubmedcentral.gov/PMC4089887).
-3. Andriole GL, Crawford ED, Grubb RL 3rd, Buys SS, Chia D, Church TR, Fouad MN, Gelmann EP, Kvale PA, Reding DJ, Weissfeld JL, Yokochi LA, O'Brien B, Clapp JD, Rathmell JM, Riley TL, Hayes RB, Kramer BS, Izmirlian G, Miller AB, Pinsky PF, Prorok PC, Gohagan JK, Berg CD; PLCO Project Team. Mortality results from a randomized prostate-cancer screening trial. N Engl J Med. 2009 Mar 26;360(13):1310-9. doi: [10.1056/NEJMoa0810696](http://dx.doio.org/10.1056/NEJMoa0810696). PMID: [19297565](http://pubmed.gov/19297565); PMCID: [PMC2944770](http://pubmedcentral.gov/PMC2944770).
+3. Schröder FH, Hugosson J, Roobol MJ, Tammela TL, Ciatto S, Nelen V, Kwiatkowski M, Lujan M, Lilja H, Zappa M, Denis LJ, Recker F, Berenguer A, Määttänen L, Bangma CH, Aus G, Villers A, Rebillard X, van der Kwast T, Blijenberg BG, Moss SM, de Koning HJ, Auvinen A; ERSPC Investigators. Screening and prostate-cancer mortality in a randomized European study. N Engl J Med. 2009 Mar 26;360(13):1320-8. doi: [10.1056/NEJMoa0810084](http://dx.doio.org/10.1056/NEJMoa0810084). PMID: [19297566](http://pubmed.gov/19297566)
+4. Andriole GL, Crawford ED, Grubb RL 3rd, Buys SS, Chia D, Church TR, Fouad MN, Gelmann EP, Kvale PA, Reding DJ, Weissfeld JL, Yokochi LA, O'Brien B, Clapp JD, Rathmell JM, Riley TL, Hayes RB, Kramer BS, Izmirlian G, Miller AB, Pinsky PF, Prorok PC, Gohagan JK, Berg CD; PLCO Project Team. Mortality results from a randomized prostate-cancer screening trial. N Engl J Med. 2009 Mar 26;360(13):1310-9. doi: [10.1056/NEJMoa0810696](http://dx.doio.org/10.1056/NEJMoa0810696). PMID: [19297565](http://pubmed.gov/19297565); PMCID: [PMC2944770](http://pubmedcentral.gov/PMC2944770).
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
