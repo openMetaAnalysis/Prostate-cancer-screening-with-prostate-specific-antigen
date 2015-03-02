@@ -11,6 +11,21 @@ This repository is a limited review and contains outcomes data only without PICO
 
 See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
+Calculation of PSA test intensity.
+ * Test intensity = A * 1/B * (C - D)
+  * A = years of testing in the trial
+  * B = years between tests
+  * C = rate of testing in the screening group
+  * D = rate of testing in the control group
+
+
+| Trial             | A  | B |  C  |  D | Intensity
+| ----------------- |:--:|:-:|:---:|:---:|:---
+| PLCO              |  4 | 1 | 85% | 50% | 1.4
+| ERSPC-not-Göteborg| 13 | 4 | 60% | ?   | 2.1 (ERSPC. 2014. Table 1. Assumes rate = 0% in controls)
+| ERSPC-Göteborg    | 13 | 2 | 55% | ?   | 3.4 (ERSPC. 2014. Table 1. Assumes rate = 0% in controls)
+  
+
 **Results:** Details of the studies included are in the:
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 
