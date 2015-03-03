@@ -31,9 +31,11 @@ Calculation of PSA test intensity.
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
+
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen/master/forest-plots/Outcome-Primary.png "Principle results - forest plot")
 
 The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
+
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen/master/metaregression/Outcome-Primary.png "Principle results - metaregression")
 
 References:
