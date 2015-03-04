@@ -5,7 +5,7 @@ A data-only living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Metaregression indicates a correlation between the benefit of screening and the intensity of testing with the prostate-specific antigen. In the trial with the most intensive testing, the number need to screen to prevent one death from prostate cancer was 200 - 300 depending on whether calculating from Göteborg older or younger cohort. This number is more favorable than screening for breast cancer or lung cancer.
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analyses.(1,2) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
 This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
 
@@ -38,7 +38,7 @@ References:
 #### New trial(s) *not* included in the most recent review above
 None
 
-#### Trials included in the review above
+#### Trials included in the review(s) above
 1. Schröder FH, Hugosson J, Roobol MJ, Tammela TL, Zappa M, Nelen V, Kwiatkowski M, Lujan M, Määttänen L, Lilja H, Denis LJ, Recker F, Paez A, Bangma CH, Carlsson S, Puliti D, Villers A, Rebillard X, Hakama M, Stenman UH, Kujala P, Taari K, Aus G, Huber A, van der Kwast TH, van Schaik RH, de Koning HJ, Moss SM, Auvinen A; ERSPC Investigators. Screening and prostate cancer mortality: results of the European Randomised Study of Screening for Prostate Cancer (ERSPC) at 13 years of follow-up. Lancet. 2014 Dec 6;384(9959):2027-35. doi: [10.1016/S0140-6736(14)60525-0](http://dx.doio.org/10.1016/S0140-6736(14)60525-0). PMID: [25108889](http://pubmed.gov/25108889).
 2. Hugosson J, Carlsson S, Aus G, Bergdahl S, Khatami A, Lodding P, Pihl CG, Stranne J, Holmberg E, Lilja H. Mortality results from the Göteborg randomised population-based prostate-cancer screening trial. Lancet Oncol. 2010 Aug;11(8):725-32. doi: [10.1016/S1470-2045(10)70146-7](http://dx.doio.org/10.1016/S1470-2045(10)70146-7). PMID: [20598634](http://pubmed.gov/20598634); PMCID: [PMC4089887](http://pubmedcentral.gov/PMC4089887).
 3. Schröder FH, Hugosson J, Roobol MJ, Tammela TL, Ciatto S, Nelen V, Kwiatkowski M, Lujan M, Lilja H, Zappa M, Denis LJ, Recker F, Berenguer A, Määttänen L, Bangma CH, Aus G, Villers A, Rebillard X, van der Kwast T, Blijenberg BG, Moss SM, de Koning HJ, Auvinen A; ERSPC Investigators. Screening and prostate-cancer mortality in a randomized European study. N Engl J Med. 2009 Mar 26;360(13):1320-8. doi: [10.1056/NEJMoa0810084](http://dx.doio.org/10.1056/NEJMoa0810084). PMID: [19297566](http://pubmed.gov/19297566)
