@@ -3,7 +3,7 @@ Prostate cancer screening with prostate-specific antigen
 
 A data-only living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Metaregression indicates a correlation between the benefit of screening and the intensity of testing with the prostate-specific antigen. In the trial with the most intensive testing, the number need to screen to prevent one death from prostate cancer was 194. 
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Metaregression indicates a correlation between the benefit of screening and the intensity of testing with the prostate-specific antigen. In the trial with the most intensive testing, the number need to screen to prevent one death from prostate cancer was 200 - 300 depending on calculations used. This number is more favorable than screening for breast cancer or lung cancer.
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
