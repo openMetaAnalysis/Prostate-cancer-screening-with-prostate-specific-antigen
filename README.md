@@ -11,7 +11,7 @@ This repository is a limited review and contains outcomes data only without PICO
 
 See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
-* [Calculation of years of coverage added by screening](../../issues/5)
+* [Calculation of years of coverage added by screening](../../issues/6)
 
 **Results:** Details of the studies included are in the:
 * [Source data](../../tree/master/data)
