@@ -3,7 +3,7 @@ Prostate cancer screening with prostate-specific antigen
 
 A data-only living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Metaregression indicates a correlation between the benefit of screening and the intensity of testing with the prostate-specific antigen. In the trial with the most intensive testing, the number need to screen to prevent one death from prostate cancer was 200 - 300 depending on whether calculating from Göteborg older or younger cohort. This number is more favorable than screening for breast cancer or lung cancer.
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Metaregression indicates a correlation between the benefit of screening and years of coverage added by screening with the prostate-specific antigen. The optimal frequency of screening is 2-3 years. In the trial with the most intensive testing, the number need to screen to prevent one death from prostate cancer was 200 - 300 depending on whether calculating from Göteborg older or younger cohort. This number is more favorable than screening for breast cancer or lung cancer.
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analyses.(1,2) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
@@ -11,8 +11,7 @@ This repository is a limited review and contains outcomes data only without PICO
 
 See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
-* [Calculation of intensity of screening](../../issues/2)
-* [Explanation of Göteborg data](../../issues/1)
+* [Calculation of years of coverage added by screening](../../issues/5)
 
 **Results:** Details of the studies included are in the:
 * [Source data](../../tree/master/data)
