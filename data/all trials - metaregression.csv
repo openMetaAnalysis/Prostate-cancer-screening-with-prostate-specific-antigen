@@ -8,12 +8,12 @@ ERSPC - Italy,2009,19297566,19,7266,22,7251,4,1.55,3,0.52,0.307
 ERSPC - Finland,2009,19297566,139,31970,237,48409,4,1.53,3,0.51,0.307
 ERSPC - Spain,2009,19297566,2,1056,1,1141,4,1.8,3,0.6,0.307
 ERSPC - Switzerland,2009,19297566,9,4948,10,4955,4,1.81,3,0.63,0.307
-,,,,,,,,
-,,,,,,,Events and totals are from USPSTF forest plot,
-,,,,,,,,
-,,,,,,,Cofactor is based on coverage is 3 yrs and contamination is 0.25,
-,,,,,,,,
-,,,,,,,To make forest plot:,
-,,,,,,,Click 'Raw' view of this file,
-,,,,,,,Copy rows of data without column names,
-,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io,
+,,,,,,,,,,,
+,,,,,,,,,,Events and totals are from USPSTF forest plot,
+,,,,,,,,,,,
+,,,,,,,,,,Cofactor is based on coverage is 3 yrs and contamination is 0.25,
+,,,,,,,,,,,
+,,,,,,,,,,To make forest plot:,
+,,,,,,,,,,Click 'Raw' view of this file,
+,,,,,,,,,,Copy rows of data without column names,
+,,,,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io,
