@@ -2,25 +2,39 @@
 <included>
 <!-- start of a new study -->
 <study>
-<citation year="2009" pmid="19297565" trialregistration="NCT00002540" journal_abbrev="N Engl J Med" totalsubjects="76,693" >Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial</citation>
- <randomization explanation="Method of randomization not described">Unclear risk</randomization>
- <allocation explanation="Method of concealing allocation not stated"> risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel."> risk</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
- <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
- <other_biases> risk</other_biases>
+<citation year="2009" pmid="19297565" trialregistration="NCT00002540" journal_abbrev="N Engl J Med">Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial</citation>
+ <design>randomized controlled trial</design>
+ <patients total="76693">
+ <description>men ages __ to __</description>
+ <bullet>Mean age __ months</bullet>
+ </patients>
+ <intervention>serial testing of levels of prostate-specific antigen
+ <bullet>Amount?</bullet>
+ <bullet>Every one year</bullet>
+ <bullet>Duration of 6 years</bullet>
+ </intervention>
+ <comparison>usual care</comparison>
+ <outcome>
+ <bullet type='primary' url=''>death from prostate cancer</bullet>
+ </outcome>
 </study>
 <!-- start of a new study -->
 <study>
 <citation year="2009" pmid="19297566" trialregistration="ISRCTN49127736" journal_abbrev="N Engl J Med" totalsubjects="0" >European Randomized Study of Screening for Prostate Cancer</citation>
- <randomization explanation="Method of randomization not described">Unclear risk</randomization>
- <allocation explanation="Method of concealing allocation not stated"> risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel."> risk</blinding_people>
- <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
- <selective_reporting explanation="Original protocol not available at a website for trial registration.">Unclear risk</selective_reporting>
- <other_biases> risk</other_biases>
+ <design>randomized controlled trial</design>
+ <patients total="162,243">
+ <description>men ages 55 to 69</description>
+ <bullet>Mean age __ months</bullet>
+ </patients>
+ <intervention>serial testing of levels of prostate-specific antigen
+ <bullet>Amount?</bullet>
+ <bullet>Frequency?</bullet>
+ <bullet>Duration?</bullet>
+ </intervention>
+ <comparison>usual care</comparison>
+ <outcome>
+ <bullet type='primary' url=''>death from prostate cancer</bullet>
+ </outcome>
 </study>
 <!-- Leave this bottom line -->
 </included>
