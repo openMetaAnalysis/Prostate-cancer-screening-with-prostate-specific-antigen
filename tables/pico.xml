@@ -2,7 +2,7 @@
 <included>
 <!-- start of a new study -->
 <study>
-<citation year="2011" pmid="21984740" trialregistration="" journal_abbrev="Ann Intern Med" totalsubjects="0" >Chou</citation>
+<citation year="2009" pmid="19297565" trialregistration="NCT00002540" journal_abbrev="N Engl J Med" totalsubjects="76,693" >Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial</citation>
  <randomization explanation="Method of randomization not described">Unclear risk</randomization>
  <allocation explanation="Method of concealing allocation not stated"> risk</allocation>
  <blinding_people explanation="Did not state blinding of subjects and personnel."> risk</blinding_people>
@@ -13,7 +13,7 @@
 </study>
 <!-- start of a new study -->
 <study>
-<citation year="2013" pmid="23567643" trialregistration="" journal_abbrev="Ann Intern Med" totalsubjects="0" >Qaseem</citation>
+<citation year="2009" pmid="19297566" trialregistration="ISRCTN49127736" journal_abbrev="N Engl J Med" totalsubjects="0" >European Randomized Study of Screening for Prostate Cancer</citation>
  <randomization explanation="Method of randomization not described">Unclear risk</randomization>
  <allocation explanation="Method of concealing allocation not stated"> risk</allocation>
  <blinding_people explanation="Did not state blinding of subjects and personnel."> risk</blinding_people>
