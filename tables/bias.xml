@@ -19,7 +19,7 @@
  <blinding_people explanation="Did not state blinding of subjects and personnel."> risk</blinding_people>
  <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
- <selective_reporting>Low risk</selective_reporting>
+ <selective_reporting explanation="Consort flow diagram not providedsdfsdfsdf">High risk</selective_reporting>
  <other_biases> risk</other_biases>
 </study>
 <!-- Leave this bottom line -->
