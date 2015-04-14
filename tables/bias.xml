@@ -16,7 +16,7 @@
 <citation year="2009" pmid="19297566" trialregistration="ISRCTN49127736" journal_abbrev="N Engl J Med" totalsubjects="162,243" >European Randomized Study of Screening for Prostate Cancer</citation>
  <randomization explanation="Method of randomization not described">Low risk</randomization>
  <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
- <blinding_people explanation="Did not state blinding of subjects and personnel.">Low risk, although not blinded we believe it would not have affected the results</blinding_people>
+ <blinding_people explanation="Did not state blinding of subjects and personnel. Although not blinded we believe it would not have affected the results">Low risk</blinding_people>
  <blinding_assessment explanation="">Low risk</blinding_assessment>
  <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
  <selective_reporting explanation="Consort flow diagram not provided">Low risk</selective_reporting>
@@ -25,7 +25,7 @@
 <!-- start of a new study -->
 <study>
 <citation year="2010" pmid="20598634" trialregistration="ISRCTN54449243" journal_abbrev="Lancet Oncol" totalsubjects="162,243" >Goteborg trial</citation>
- <randomization explanation="Method of randomization not described">Unclear risk, method of randomization not clearly stated</randomization>
+ <randomization explanation="Method of randomization not described">Unclear risk</randomization>
  <allocation explanation="Method of concealing allocation not stated">Unclear risk</allocation>
  <blinding_people explanation="Did not state blinding of subjects and personnel."> Unclear risk</blinding_people>
  <blinding_assessment explanation="">Low risk</blinding_assessment>
