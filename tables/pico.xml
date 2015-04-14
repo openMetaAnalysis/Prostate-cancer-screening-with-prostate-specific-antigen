@@ -14,6 +14,8 @@
  <bullet>Mean tests performed: 5.1 tests per male</bullet>
  </intervention>
  <comparison>Usual care</comparison>
+ <bullet>Contamination rate: 52% of controls</bullet>
+ <bullet>Mean tests performed: 2.7 tests per male (reported)</bullet>
  <outcome>
  <bullet type='primary' url=''>Death from prostate cancer</bullet>
  </outcome>
@@ -32,6 +34,8 @@
  <bullet>Mean tests performed: 1.7 tests per male</bullet>
  </intervention>
  <comparison>Usual care</comparison>
+ <bullet>Contamination rate: 31% of controls</bullet>
+ <bullet>Mean tests performed: not reported</bullet>
  <outcome>
  <bullet type='primary' url=''>Death from prostate cancer</bullet>
  </outcome>
@@ -52,6 +56,8 @@
  <bullet>Mean tests performed: 3.9 tests per male</bullet>
  </intervention>
  <comparison>Usual care</comparison>
+ <bullet>Contamination rate: 31% of controls (presumed based on rate in ERSPC)</bullet>
+ <bullet>Mean tests performed: not reported</bullet>
  <outcome>
  <bullet type='primary' url=''>Death from prostate cancer</bullet>
  </outcome>
