@@ -3,55 +3,57 @@
 <!-- start of a new study -->
 <study>
 <citation year="2009" pmid="19297565" trialregistration="NCT00002540" journal_abbrev="N Engl J Med">Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial</citation>
- <design>randomized controlled trial</design>
- <patients total="76693">
- <description>men ages 55 to 74</description>
+ <design>Randomized controlled trial</design>
+ <patients total="76,693">
+ <description>Males ages 55 to 74</description>
  <bullet>Mean age __ months</bullet>
  </patients>
- <intervention>serial testing of levels of prostate-specific antigen
- <bullet>Amount?</bullet>
+ <intervention>Serial testing of levels of prostate-specific antigen
  <bullet>Every one year</bullet>
- <bullet>Duration of 6 years</bullet>
+ <bullet>Duration of screening 6 years</bullet>
+ <bullet>Mean tests performed: 5.1 tests per male</bullet>
  </intervention>
- <comparison>usual care</comparison>
+ <comparison>Usual care</comparison>
  <outcome>
- <bullet type='primary' url=''>death from prostate cancer</bullet>
+ <bullet type='primary' url=''>Death from prostate cancer</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
 <study>
-<citation year="2009" pmid="19297566" trialregistration="ISRCTN49127736" journal_abbrev="N Engl J Med" totalsubjects="0" >European Randomized Study of Screening for Prostate Cancer (ERSPC)</citation>
- <design>randomized controlled trial</design>
+<citation year="2009" pmid="19297566" trialregistration="ISRCTN49127736" journal_abbrev="N Engl J Med" totalsubjects="162,243" >European Randomized Study of Screening for Prostate Cancer (ERSPC)</citation>
+ <design>Randomized controlled trial</design>
  <patients total="162,243">
- <description>men ages 55 to 69</description>
- <bullet>Mean age __ months</bullet>
+ <description>Males ages 50 to 74</description>
+ <bullet>Mean age 61 years</bullet>
  </patients>
- <intervention>serial testing of levels of prostate-specific antigen
- <bullet>Amount?</bullet>
+ <intervention>Serial testing of levels of prostate-specific antigen
  <bullet>Every 4 years</bullet>
- <bullet>Duration?</bullet>
+ <bullet>Duration of screening 13 years</bullet>
+ <bullet>Mean tests performed: 1.7 tests per male</bullet>
  </intervention>
- <comparison>usual care</comparison>
+ <comparison>Usual care</comparison>
  <outcome>
- <bullet type='primary' url=''>death from prostate cancer</bullet>
+ <bullet type='primary' url=''>Death from prostate cancer</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
 <study>
-<citation year="2010" pmid="20598634" trialregistration="ISRCTN54449243" journal_abbrev="Lancet Oncol" totalsubjects="0" >Mortality results from the Goteborg randomized population-based prostate-cancer screeening trial</citation>
- <design>randomized controlled trial</design>
- <patients total="20000">
- <description>men ages 50 to 64</description>
- <bullet>Mean age __ months</bullet>
+<citation year="2010" pmid="20598634" trialregistration="ISRCTN54449243" journal_abbrev="Lancet Oncol" totalsubjects="20,000" >Goteborg trial</citation>
+ <design>Randomized controlled trial</design>
+ <patients total="20,000">
+ <description>Males ages 50 to 64</description>
+ <bullet>Mean age 56 years</bullet>
+ <bullet>Cohort born in 1930-1939 also included in ERSPC</bullet>
+ <bullet>Cohort born in 1940-1944 are not included in ERSPC</bullet>
  </patients>
- <intervention>serial testing of levels of prostate-specific antigen
- <bullet>Amount?</bullet>
+ <intervention>Serial testing of levels of prostate-specific antigen
  <bullet>Every 2 years</bullet>
- <bullet>Duration of 14 years</bullet>
+ <bullet>Duration of screening 14 years</bullet>
+ <bullet>Mean tests performed: 3.9 tests per male</bullet>
  </intervention>
- <comparison>usual care</comparison>
+ <comparison>Usual care</comparison>
  <outcome>
- <bullet type='primary' url=''>death from prostate cancer</bullet>
+ <bullet type='primary' url=''>Death from prostate cancer</bullet>
  </outcome>
 </study>
 <!-- Leave this bottom line -->
