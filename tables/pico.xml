@@ -28,7 +28,7 @@
  </patients>
  <intervention>serial testing of levels of prostate-specific antigen
  <bullet>Amount?</bullet>
- <bullet>Every 4 years?</bullet>
+ <bullet>Every 4 years</bullet>
  <bullet>Duration?</bullet>
  </intervention>
  <comparison>usual care</comparison>
@@ -46,8 +46,8 @@
  </patients>
  <intervention>serial testing of levels of prostate-specific antigen
  <bullet>Amount?</bullet>
- <bullet>Every 2 years?</bullet>
- <bullet>Duration of 14 years?</bullet>
+ <bullet>Every 2 years</bullet>
+ <bullet>Duration of 14 years</bullet>
  </intervention>
  <comparison>usual care</comparison>
  <outcome>
