@@ -22,5 +22,16 @@
  <selective_reporting explanation="Consort flow diagram not providedsdfsdfsdf">High risk</selective_reporting>
  <other_biases> risk</other_biases>
 </study>
+<!-- start of a new study -->
+<study>
+<citation year="2010" pmid="20598634" trialregistration="ISRCTN54449243" journal_abbrev="Lancet Oncol" totalsubjects="162,243" >Mortality results from the Goteborg randomized population-based prostate-cancer screeening trial</citation>
+ <randomization explanation="Method of randomization not described">Unclear risk</randomization>
+ <allocation explanation="Method of concealing allocation not stated"> risk</allocation>
+ <blinding_people explanation="Did not state blinding of subjects and personnel."> risk</blinding_people>
+ <blinding_assessment explanation="Blinding of assessors not stated">Unclear risk</blinding_assessment>
+ <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
+ <selective_reporting explanation="Consort flow diagram not providedsdfsdfsdf">High risk</selective_reporting>
+ <other_biases> risk</other_biases>
+</study>
 <!-- Leave this bottom line -->
 </included>
