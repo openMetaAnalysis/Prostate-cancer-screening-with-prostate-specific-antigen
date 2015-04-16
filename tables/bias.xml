@@ -7,7 +7,7 @@
  <allocation explanation="">Low risk</allocation>
  <blinding_people explanation="Was not blinded, however unlikely to affect execution of study">Low risk</blinding_people>
  <blinding_assessment explanation="">Low risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided. Overall attrition was 67% but was not reported within each study group">Unclear risk</attrition>
+ <attrition explanation="Overall attrition was 67% but was not reported within each study group">Unclear risk</attrition>
  <selective_reporting >Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
@@ -18,7 +18,7 @@
  <allocation explanation="">Low risk</allocation>
  <blinding_people explanation="Was not blinded, however unlikely to affect execution of study">Low risk</blinding_people>
  <blinding_assessment explanation="">Low risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
+ <attrition explanation="Overall attrition was >70% but was not reported within each study group">Unclear risk</attrition>
  <selective_reporting explanation="">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
@@ -29,7 +29,7 @@
  <allocation explanation="">Low risk</allocation>
  <blinding_people explanation="Was not blinded, however unlikely to affect execution of study">Low risk</blinding_people>
  <blinding_assessment explanation="">Low risk</blinding_assessment>
- <attrition explanation="Consort flow diagram not provided">Unclear risk</attrition>
+ <attrition explanation="Rate of attrition unclear">Unclear risk</attrition>
  <selective_reporting explanation="">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
