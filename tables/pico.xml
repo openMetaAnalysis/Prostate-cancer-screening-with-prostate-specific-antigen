@@ -46,9 +46,9 @@
 </study>
 <!-- start of a new study -->
 <study>
-<citation year="2010" pmid="20598634" trialregistration="ISRCTN54449243" journal_abbrev="Lancet Oncol" totalsubjects="20,000" >Goteborg trial</citation>
+<citation year="2010" pmid="20598634" trialregistration="ISRCTN54449243" journal_abbrev="Lancet Oncol" totalsubjects="8057" >Goteborg trial</citation>
  <design>Randomized controlled trial</design>
- <patients total="20,000">
+ <patients total="8057">
  <description>Males ages 50 to 64</description>
  <bullet>Mean age 56 years</bullet>
  <bullet>Cohort born in 1930-1939 also included in ERSPC</bullet>
@@ -63,6 +63,69 @@
  <comparison>Usual care
  <bullet>Contamination rate: 31% of controls (presumed based on rate in ERSPC)</bullet>
  <bullet>Mean tests performed: not reported</bullet>
+</comparison>
+<outcome>
+ <bullet type='primary' url=''>Death from prostate cancer</bullet>
+ </outcome>
+</study>
+<study>
+<citation year="2004" pmid="15042607" trialregistration="" journal_abbrev="Prostate" totalsubjects="46486" >Quebec (Labie)</citation>
+ <design>Randomized controlled trial</design>
+ <patients total="464860">
+ <description>Males ages __ - __</description>
+ <bullet>Mean age __ years</bullet>
+ </patients>
+ <intervention>Serial testing of levels of prostate-specific antigen
+ <bullet>Every _ years</bullet>
+ <bullet>Duration of screening __ years</bullet>
+ <bullet>Mean tests performed: __ tests per male</bullet>
+ <bullet>PSA level defined as abnormal: _ ng per mL</bullet>
+ </intervention>
+ <comparison>Usual care
+ <bullet>Contamination rate: __of controls ()</bullet>
+ <bullet>Mean tests performed: __ ()</bullet>
+</comparison>
+<outcome>
+ <bullet type='primary' url=''>Death from prostate cancer</bullet>
+ </outcome>
+</study>
+<study>
+<citation year="2009" pmid="19233435" trialregistration="" journal_abbrev="J Urol" totalsubjects="27146" >Stockholm (Kjellman)</citation>
+ <design>Randomized controlled trial</design>
+ <patients total="27146">
+ <description>Males ages 55 - 70</description>
+ <bullet>Mean age 62 years</bullet>
+ </patients>
+ <intervention>**Single** testing of level of prostate-specific antigen
+ <bullet>**One time**</bullet>
+ <bullet>Duration of screening 1 years</bullet>
+ <bullet>Mean tests performed: 0.74 tests per male</bullet>
+ <bullet>PSA level defined as abnormal: 7 ng per mL</bullet>
+ </intervention>
+ <comparison>Usual care
+ <bullet>Contamination rate: not reported</bullet>
+ <bullet>Mean tests performed: not reported</bullet>
+</comparison>
+<outcome>
+ <bullet type='primary' url=''>Death from prostate cancer</bullet>
+ </outcome>
+</study>
+<study>
+<citation year="2011" pmid="21454449" trialregistration="ISRCTN06342431" journal_abbrev="BMJ" totalsubjects="9026" >Norrkoping (Sandblom)</citation>
+ <design>Randomized controlled trial</design>
+ <patients total="9026">
+ <description>Males ages __ - __</description>
+ <bullet>Mean age __ years</bullet>
+ </patients>
+ <intervention>Serial testing of levels of prostate-specific antigen
+ <bullet>Every _ years</bullet>
+ <bullet>Duration of screening __ years</bullet>
+ <bullet>Mean tests performed: __ tests per male</bullet>
+ <bullet>PSA level defined as abnormal: _ ng per mL</bullet>
+ </intervention>
+ <comparison>Usual care
+ <bullet>Contamination rate: __of controls ()</bullet>
+ <bullet>Mean tests performed: __ ()</bullet>
 </comparison>
 <outcome>
  <bullet type='primary' url=''>Death from prostate cancer</bullet>
