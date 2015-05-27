@@ -97,10 +97,9 @@
  <bullet>Mean age 62 years</bullet>
  </patients>
  <intervention>**Single** testing of level of prostate-specific antigen
- <bullet>**One time**</bullet>
- <bullet>Duration of screening 1 years</bullet>
  <bullet>Mean tests performed: 0.74 tests per male</bullet>
  <bullet>PSA level defined as abnormal: 7 ng per mL</bullet>
+ <bullet>**Transrectal ultrasound performed in all males**</bullet>
  </intervention>
  <comparison>Usual care
  <bullet>Contamination rate: not reported</bullet>
