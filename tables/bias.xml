@@ -33,5 +33,27 @@
  <selective_reporting explanation="">Low risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
+<!-- start of a new study -->
+<study>
+<citation year="2009" pmid="19233435" trialregistration="" journal_abbrev="J Urol" totalsubjects="27146" >Stockholm (Kjellman)</citation>
+ <randomization explanation=""> risk</randomization>
+ <allocation explanation=""> risk</allocation>
+ <blinding_people explanation="Was not blinded, however unlikely to affect execution of study">Low risk</blinding_people>
+ <blinding_assessment explanation=""> risk</blinding_assessment>
+ <attrition explanation="Rate of attrition unclear"> risk</attrition>
+ <selective_reporting explanation=""> risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2011" pmid="21454449" trialregistration="ISRCTN06342431" journal_abbrev="BMJ" totalsubjects="9026" >Norrkoping (Sandblom)</citation>
+ <randomization explanation=""> risk</randomization>
+ <allocation explanation=""> risk</allocation>
+ <blinding_people explanation="Was not blinded, however unlikely to affect execution of study">Low risk</blinding_people>
+ <blinding_assessment explanation=""> risk</blinding_assessment>
+ <attrition explanation="Rate of attrition unclear"> risk</attrition>
+ <selective_reporting explanation=""> risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
+</study>
 <!-- Leave this bottom line -->
 </included>
