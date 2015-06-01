@@ -24,13 +24,24 @@
 </study>
 <!-- start of a new study -->
 <study>
-<citation year="2010" pmid="20598634" trialregistration="ISRCTN54449243" journal_abbrev="Lancet Oncol" totalsubjects="20000" >Goteborg trial</citation>
+<citation year="2010" pmid="20598634" trialregistration="ISRCTN54449243" journal_abbrev="Lancet Oncol" totalsubjects="8057" >Goteborg trial</citation>
  <randomization explanation="">Low risk</randomization>
  <allocation explanation="">Low risk</allocation>
  <blinding_people explanation="Was not blinded, however unlikely to affect execution of study">Low risk</blinding_people>
  <blinding_assessment explanation="">Low risk</blinding_assessment>
  <attrition explanation="Rate of attrition unclear">Unclear risk</attrition>
  <selective_reporting explanation="">Low risk</selective_reporting>
+ <other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2004" pmid="15042607" trialregistration="" journal_abbrev="Prostate" totalsubjects="46486" >Quebec (Labrie)</citation>
+ <randomization explanation=""> risk</randomization>
+ <allocation explanation=""> risk</allocation>
+ <blinding_people explanation="Was not blinded, however unlikely to affect execution of study"> risk</blinding_people>
+ <blinding_assessment explanation=""> risk</blinding_assessment>
+ <attrition explanation="Rate of attrition unclear"> risk</attrition>
+ <selective_reporting explanation=""> risk</selective_reporting>
  <other_biases>Low risk</other_biases>
 </study>
 <!-- start of a new study -->
@@ -49,7 +60,7 @@
 <citation year="2011" pmid="21454449" trialregistration="ISRCTN06342431" journal_abbrev="BMJ" totalsubjects="9026" >Norrkoping (Sandblom)</citation>
  <randomization explanation=""> risk</randomization>
  <allocation explanation=""> risk</allocation>
- <blinding_people explanation="Was not blinded, however unlikely to affect execution of study">Low risk</blinding_people>
+ <blinding_people explanation="Was not blinded, however unlikely to affect execution of study"> risk</blinding_people>
  <blinding_assessment explanation=""> risk</blinding_assessment>
  <attrition explanation="Rate of attrition unclear"> risk</attrition>
  <selective_reporting explanation=""> risk</selective_reporting>
