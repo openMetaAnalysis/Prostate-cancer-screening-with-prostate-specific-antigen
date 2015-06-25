@@ -1,9 +1,12 @@
 Prostate cancer screening with prostate-specific antigen
 =================================
 
-A data-only living systematic review
+A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Metaregression indicates a correlation between the benefit of screening and years of coverage added by screening with the prostate-specific antigen. The optimal frequency of screening is 2-3 years. In the trial with the most intensive testing, the number need to screen to prevent one death from prostate cancer was 200 - 300 depending on whether calculating from Göteborg older or younger cohort. This number is more favorable than screening for breast cancer or lung cancer.
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Metaregression indicates a correlation between the benefit of screening and years of coverage added by screening with the prostate-specific antigen. Interscreening intervals up to 4 years may be effective. In the trial with the most intensive testing, the number need to screen to prevent one death from prostate cancer was 200 - 300 depending on whether calculating from Göteborg older or younger cohort. This number is more favorable than screening for breast cancer or lung cancer.
+
+* [Reconciliation of conclusions with prior meta-analyses](../../tree/master/reconciliation-tables)
+* [Keep current with this topic](../../tree/master/Keep-up.md)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analyses.(1,2) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
@@ -14,6 +17,8 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 * [Calculation of years of coverage added by screening](../../issues/6)
 
 **Results:** Details of the studies included are in the:
+* [PRISMA documentation](../../tree/master/PRISMA)
+* [Reconciliation of studies included with other meta-analyses](../../tree/master/reconciliation-tables)
 * [Source data](../../tree/master/data)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
@@ -23,6 +28,8 @@ The forest plot for the primary outcome is below. Additional [forest plots](../.
 The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
 
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen/master/metaregression/Outcome-Primary.png "Principle results - metaregression")
+
+* [Prostate Facts (patient information handout)](../../wiki/Prostate-Facts-%28patient-information-handout%29)
 
 References:
 ----------------------------------
