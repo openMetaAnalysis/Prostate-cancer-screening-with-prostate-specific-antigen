@@ -3,10 +3,10 @@ Keep up with this topic
 
 Receive notifications about possible studies when results posted at [ClinicalTrials.gov](http://clinicaltrials.gov)
 -------------------------
-Search strategy is ** prostate cancer random* | Studies With Results | Interventional Studies | mortality | screen* **:
+Search strategy is ** prostate cancer | Studies With Results | Interventional Studies | mortality | screen OR screening **:
 
-* [Search now and test strategy at ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?term=screen*+random*&recr=&rslt=With&type=Intr&cond=prostate+cancer&intr=&titles=&outc=mortality&spons=&lead=&id=&state1=&cntry1=&state2=&cntry2=&state3=&cntry3=&locn=&gndr=&rcv_s=&rcv_e=&lup_s=&lup_e=)
-* Receive updates by email or RSS (not available)
+* [Search now and test strategy at ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?term=screen+OR+screening&recr=&rslt=With&type=Intr&cond=prostate+cancer&intr=&titles=&outc=&spons=&lead=&id=&state1=&cntry1=&state2=&cntry2=&state3=&cntry3=&locn=&gndr=&rcv_s=&rcv_e=&lup_s=&lup_e=)
+* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=ClinicaltrialsgovProstateCancerScreening&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/ClinicaltrialsgovProstateCancerScreening?format=xml)
 
 Receive notifications about possible studies when indexed at PubMed
 -------------------------
