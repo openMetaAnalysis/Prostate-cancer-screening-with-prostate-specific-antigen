@@ -1,0 +1,18 @@
+Study,Year,PMID,experimental_events,experimental_total,control_events,control_total,testing.frequency,tests.performed,invite.count,compliance.experimental,contamination.control
+PLCO,                2009, 19297565,158, 38340,  145, 38345,1,5,6,0.85,0.52
+Göteborg - Not ERSPC,2010, 20598634,  5,  4055,    8,  4002,2,2.68,7,0.38,0.307
+ERSPC - Göteborg,    2010, 20598634, 39,  5901,   70,  5951,2,2.68,7,0.38,0.307
+ERSPC - Belgium,     2012, 22417251,  22,  5188,  25,  5171,4,1.32,3,0.44,0.307
+ERSPC - Rotterdam,   2012, 22417251,  69, 21206,  97, 21162,4,1.82,3,0.61,0.307
+ERSPC - Italy,       2012, 22417251,  19,  7497,  22,  7474,4,1.55,3,0.52,0.307
+ERSPC - Finland,     2012, 22417251, 139, 31970, 237, 48409,4,1.53,3,0.51,0.307
+ERSPC - Spain,       2012, 22417251,   2,  1840,   1,  1862,4,1.8, 3,0.6,0.307
+ERSPC - Switzerland, 2012, 22417251,   9,  5158,  10,  5151,4,1.81,3,0.63,0.307
+Norrkoping          ,2011, 21454449,  30,  1494, 130,  7532,3,2,1,0.5,0.1
+Quebec              ,2004, 15042607, 153, 31133,  75, 15353,1,9,2.12,0.24,0.073
+Stockholm           ,2009, 19233435,  53,  2374, 506, 24772,100,1,0.75,0.75,0.075
+,,,,,,,,,,,
+,,,,,,,,,,To make forest plot:,
+,,,,,,,,,,Click 'Raw' view of this file,
+,,,,,,,,,,Copy rows of data without column names,
+,,,,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io,
