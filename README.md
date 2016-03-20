@@ -29,7 +29,12 @@ The metaregression for the primary outcome is below. Additional [metaregression 
 
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen/master/metaregression/Outcome-Primary.png "Principle results - metaregression")
 
-* [Prostate Facts (patient information handout)](../../wiki/Prostate-Facts-%28patient-information-handout%29)
+Summary of findings table.
+
+![Summary of findings](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen/master/GRADE-profiles/Summary-of-findings-table.png "Summary of findings table")
+
+Patient information
+* [Prostate Facts handout](../../wiki/Prostate-Facts-%28patient-information-handout%29)
 
 References:
 ----------------------------------
