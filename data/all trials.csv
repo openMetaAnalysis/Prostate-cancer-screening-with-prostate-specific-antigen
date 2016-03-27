@@ -11,9 +11,9 @@ ERSPC - Spain,2012,22417251,2,1056,1,1141, > 3 years estimated coverage added by
 ERSPC - Switzerland,2012,22417251,9,4948,10,4955, > 3 years estimated coverage added by screening,
 Norrkoping (Sandblom),2011,21454449,30,1494,130,7532, < 3 years estimated coverage added by screening,
 ,,,,,,,,
-,,,,,,,,Events and totals are from USPSTF forest plot
+,,,,,,,Events and totals are from USPSTF forest plot,
 ,,,,,,,,
-,,,,,,,,To make forest plot:
-,,,,,,,,Click 'Raw' view of this file
-,,,,,,,,Copy rows of data without column names
-,,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io
+,,,,,,,To make forest plot:,
+,,,,,,,Click 'Raw' view of this file,
+,,,,,,,Copy rows of data without column names,
+,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io,
