@@ -1,59 +1,34 @@
 Prostate cancer screening with prostate-specific antigen
 =================================
 
-A living systematic review
+* Go to the long url near the top of this page that starts with 'openmetaanalysis.github.io/'
+* Or go to http://openmetaanalysis.github.io/
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Metaregression indicates a correlation between the benefit of screening and years of coverage added by screening with the prostate-specific antigen. Interscreening intervals up to 4 years may be effective. In the trial with the most intensive testing, the number need to screen to prevent one death from prostate cancer was 200 - 300 depending on whether calculating from Göteborg older or younger cohort. This number is more favorable than screening for breast cancer or lung cancer.
+**If you want to comment on this meta-analysis:**
+* Contact a [contributor](../../network/members) if you need access
+* Open an [issue](../../issues/new)
 
-* [Reconciliation of conclusions with prior meta-analyses](../../tree/master/reconciliation-tables)
-* [Keep current with this topic](../../tree/master/Keep-up.md)
+**If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
+* [Subscribe by email or RSS](Keep-up.md)
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analyses.(1,2) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+**If you want to update this meta-analysis:**
 
-This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
+Text files:
+* [PICO table](../../tree/gh-pages/tables/pico.xml)
+* [Risk of bias table](../../tree/gh-pages/tables/bias.xml)
+* [Data tables](../../tree/master/data)
+* [Clinical summary and references](../../tree/gh-pages/index.html)
 
-See [methods](http://openmetaanalysis.github.io/methods.html) for details.
+Images (hint: use Git Client for [Windows](https://windows.github.com/) or [Mac](https://mac.github.com/) to upload these from your computer):
+* [Forest plots](../../tree/master/files/forest-plots/)
+* [GRADE Profiles](../../tree/master/files/GRADE-Profiles)
+* [Metaregression plots](../../tree/master/files/metaregression) (optional)
 
-* [Calculation of years of coverage added by screening](../../issues/6)
+**Do you want to contribute:**
 
-**Results:** Details of the studies included are in the:
-* [PRISMA documentation](../../tree/master/PRISMA)
-* [Reconciliation of studies included with other meta-analyses](../../tree/master/reconciliation-tables)
-* [Source data](../../tree/master/data)
-
-The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
-
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen/master/forest-plots/Outcome-Primary.png "Principle results - forest plot")
-
-The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
-
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen/master/metaregression/Outcome-Primary.png "Principle results - metaregression")
-
-Summary of findings table.
-
-![Summary of findings](https://raw.githubusercontent.com/openMetaAnalysis/Prostate-cancer-screening-with-prostate-specific-antigen/master/GRADE-profiles/Summary-of-findings-table.png "Summary of findings table")
-
-Patient information
-* [Prostate Facts handout](../../wiki/Prostate-Facts-%28patient-information-handout%29)
-
-References:
-----------------------------------
-
-### Systematic review(s)
-####Most recent review at time of last revision of this repository
-1. Qaseem A, Barry MJ, Denberg TD, Owens DK, Shekelle P; Clinical Guidelines Committee of the American College of Physicians. Screening for prostate cancer: a guidance statement from the Clinical Guidelines Committee of the American College of Physicians. Ann Intern Med. 2013 May 21;158(10):761-9. doi: 10.7326/0003-4819-158-10-201305210-00633. PMID: [23567643](http://pubmed.gov/23567643).
-2. Chou R, Croswell JM, Dana T, Bougatsos C, Blazina I, Fu R, Gleitsmann K, Koenig HC, Lam C, Maltz A, Rugge JB, Lin K. Screening for prostate cancer: a review of the evidence for the U.S. Preventive Services Task Force. Ann Intern Med. 2011 Dec 6;155(11):762-71. doi: 10.7326/0003-4819-155-11-201112060-00375. PMID: [21984740](http://pubmed.gov/21984740).
-
-
-### Randomized controlled trials
-#### New trial(s) *not* included in the most recent review above
-None
-
-#### Trials included in the review(s) above
-1. Schröder FH, Hugosson J, Roobol MJ, Tammela TL, Zappa M, Nelen V, Kwiatkowski M, Lujan M, Määttänen L, Lilja H, Denis LJ, Recker F, Paez A, Bangma CH, Carlsson S, Puliti D, Villers A, Rebillard X, Hakama M, Stenman UH, Kujala P, Taari K, Aus G, Huber A, van der Kwast TH, van Schaik RH, de Koning HJ, Moss SM, Auvinen A; ERSPC Investigators. Screening and prostate cancer mortality: results of the European Randomised Study of Screening for Prostate Cancer (ERSPC) at 13 years of follow-up. Lancet. 2014 Dec 6;384(9959):2027-35. doi: [10.1016/S0140-6736(14)60525-0](http://dx.doio.org/10.1016/S0140-6736(14)60525-0). PMID: [25108889](http://pubmed.gov/25108889).
-2. Hugosson J, Carlsson S, Aus G, Bergdahl S, Khatami A, Lodding P, Pihl CG, Stranne J, Holmberg E, Lilja H. Mortality results from the Göteborg randomised population-based prostate-cancer screening trial. Lancet Oncol. 2010 Aug;11(8):725-32. doi: [10.1016/S1470-2045(10)70146-7](http://dx.doio.org/10.1016/S1470-2045(10)70146-7). PMID: [20598634](http://pubmed.gov/20598634); PMCID: [PMC4089887](http://pubmedcentral.gov/PMC4089887).
-3. Schröder FH, Hugosson J, Roobol MJ, Tammela TL, Ciatto S, Nelen V, Kwiatkowski M, Lujan M, Lilja H, Zappa M, Denis LJ, Recker F, Berenguer A, Määttänen L, Bangma CH, Aus G, Villers A, Rebillard X, van der Kwast T, Blijenberg BG, Moss SM, de Koning HJ, Auvinen A; ERSPC Investigators. Screening and prostate-cancer mortality in a randomized European study. N Engl J Med. 2009 Mar 26;360(13):1320-8. doi: [10.1056/NEJMoa0810084](http://dx.doio.org/10.1056/NEJMoa0810084). PMID: [19297566](http://pubmed.gov/19297566)
-4. Andriole GL, Crawford ED, Grubb RL 3rd, Buys SS, Chia D, Church TR, Fouad MN, Gelmann EP, Kvale PA, Reding DJ, Weissfeld JL, Yokochi LA, O'Brien B, Clapp JD, Rathmell JM, Riley TL, Hayes RB, Kramer BS, Izmirlian G, Miller AB, Pinsky PF, Prorok PC, Gohagan JK, Berg CD; PLCO Project Team. Mortality results from a randomized prostate-cancer screening trial. N Engl J Med. 2009 Mar 26;360(13):1310-9. doi: [10.1056/NEJMoa0810696](http://dx.doio.org/10.1056/NEJMoa0810696). PMID: [19297565](http://pubmed.gov/19297565); PMCID: [PMC2944770](http://pubmedcentral.gov/PMC2944770).
+* '[Fork](../../fork)' this repository
+* Make your edits
+* Initiate a '[Pull request](../../compare/)' for your changes to be merged.
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
