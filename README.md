@@ -1,15 +1,16 @@
 Prostate cancer screening with prostate-specific antigen
 =================================
 
-* Go to the long url near the top of this page that starts with 'openmetaanalysis.github.io/'
-* Or go to http://openmetaanalysis.github.io/
+**[Click here](
+http://openmetaanalysis.github.io/Prostate-cancer-screening-with-prostate-specific-antigen
+) to see the meta-analysis.**
 
 **If you want to comment on this meta-analysis:**
 * Contact a [contributor](../../network/members) if you need access
 * Open an [issue](../../issues/new)
 
 **If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
-* [Subscribe by email or RSS](Keep-up.md)
+* [Subscribe by email or RSS](files/searching/Keep-up.md)
 
 **If you want to update this meta-analysis:**
 
@@ -19,10 +20,10 @@ Text files:
 * [Data tables](../../tree/master/data)
 * [Clinical summary and references](../../tree/gh-pages/index.html)
 
-Images (hint: use Git Client for [Windows](https://windows.github.com/) or [Mac](https://mac.github.com/) to upload these from your computer):
-* [Forest plots](../../tree/master/files/forest-plots/)
-* [GRADE Profiles](../../tree/master/files/GRADE-Profiles)
-* [Metaregression plots](../../tree/master/files/metaregression) (optional)
+Images:
+* [Forest plots](../master/files/forest-plots)
+* [GRADE Profiles](../master/files/GRADE-Profiles)
+* [Metaregression plots](../master/files/metaregression) (optional)
 
 **Do you want to contribute:**
 
