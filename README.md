@@ -15,11 +15,11 @@ http://openmetaanalysis.github.io/Prostate-cancer-screening-with-prostate-specif
 **If you want to update this meta-analysis:**
 
 Text files:
+* [Clinical summary and references](../../tree/gh-pages/index.html)
+* [Data tables](../master/files/data)
 * [PICO table](../../tree/gh-pages/tables/pico.xml)
 * [Risk of bias table](../../tree/gh-pages/tables/bias.xml)
-* [Data tables](../../tree/master/data)
-* [PRISMA files](../../tree/master/prisma)
-* [Clinical summary and references](../../tree/gh-pages/index.html)
+* [PRISMA files](../master/files/PRISMA)
 
 Images:
 * [Forest plots](../master/files/forest-plots)
