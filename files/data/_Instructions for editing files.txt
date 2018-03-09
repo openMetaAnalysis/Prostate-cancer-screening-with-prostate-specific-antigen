@@ -1,0 +1,12 @@
+Events and totals are from USPSTF forest plot
+
+1. Download a data file.
+2. Select the appropriate plot editor at http://openmetaanalysis.github.io/ and upload your data file.
+3. Fill in labels and settings.
+4. Click 'Plot'
+5. Click 'PNG' in upper right of plot.
+6. Resize the plot as needed by changing the width or height in address window and clicking 'Enter' to resize.
+7. One desired plot displayed, save to your computer.
+8. "Fork" make a copy of this respository. The copy will be in your personal directory.
+9. Upload with drag and drop the new plot to the correct directory. Note that the file named "Outcome-Primary.png" will be displayed on the main page of the meta-analysis.
+10. Initial a "Pull request" for your revised files to be accepted in the openMetaAnalysis repository.
