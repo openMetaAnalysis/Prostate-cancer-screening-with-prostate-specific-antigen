@@ -1,4 +1,4 @@
-,Current,"USPSTF (Chou), 2014","CTFPHC, 2014","Cochrane (Ilic), 2013"
-,,PMID 22801674,PMID 25349003,PMID 23440794
-Screening vs usual care,Benefit depends on duration of screening,No benefit,"No benefit, trials not pooled",No benefit in pooled data
-Heterogeneity,None,Not reported,Not applicable,Moderate (I2=46%)
+,Current,Ilic,Fenton (USPSTF),USPSTF (Chou),CTFPHC,Cochrane (Ilic)
+,,2018 PMID 30185521,2018 PMID 29801018,2014 PMID 22801674,2014 PMID 25349003,2013 PMID 23440794
+Screening vs usual care,"If screening at least 3.2 years, RR=0.78; NNT = 1000",RR=0.79 (from ERSPC); One less death from prostate cancer per 1000 men screened over 10 years,RR = 0.79 (from ERSPC),No benefit,"No benefit, trials not pooled",No benefit in pooled data
+Heterogeneity,None,NA (based on 1 low bias tgrial),,Not reported,Not applicable,Moderate (I2=46%)
