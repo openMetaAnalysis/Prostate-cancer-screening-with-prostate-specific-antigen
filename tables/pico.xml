@@ -130,5 +130,26 @@
  <bullet type='primary' url=''>Death from prostate cancer</bullet>
  </outcome>
 </study>
+ <citation year="2018" pmid="29509864" trialregistration="ISRCTN92187251" journal_abbrev="BMJ" totalsubjects="408825" >CAP</citation>
+ <design>Randomized controlled trial</design>
+ <patients total="408825">
+ <description>Males ages __ - __</description>
+ <bullet>Mean age __ years</bullet>
+ </patients>
+ <intervention>Single test of prostate-specific antigen
+ <bullet>Every _ years</bullet>
+ <bullet>Duration of screening __ years</bullet>
+ <bullet>Mean tests performed: __ tests per male</bullet>
+ <bullet>PSA level defined as abnormal: _ ng per mL</bullet>
+ </intervention>
+ <comparison>Usual care
+ <bullet>Contamination rate: __of controls ()</bullet>
+ <bullet>Mean tests performed: __ ()</bullet>
+</comparison>
+<outcome>
+ <bullet type='primary' url=''>___</bullet>
+ </outcome>
+</study>
+
 <!-- Leave this bottom line -->
 </included>
