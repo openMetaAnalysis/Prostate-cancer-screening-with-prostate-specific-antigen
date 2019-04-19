@@ -130,6 +130,7 @@
  <bullet type='primary' url=''>Death from prostate cancer</bullet>
  </outcome>
 </study>
+<study> 
  <citation year="2018" pmid="29509864" trialregistration="ISRCTN92187251" journal_abbrev="BMJ" totalsubjects="408825" >CAP</citation>
  <design>Randomized controlled trial</design>
  <patients total="408825">
