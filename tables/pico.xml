@@ -134,21 +134,19 @@
  <citation year="2018" pmid="29509864" trialregistration="ISRCTN92187251" journal_abbrev="BMJ" totalsubjects="408825" >CAP</citation>
  <design>Randomized controlled trial</design>
  <patients total="408825">
- <description>Males ages __ - __</description>
- <bullet>Mean age __ years</bullet>
+ <description>Males ages 50 - 69</description>
+ <bullet>Mean age 59 years</bullet>
  </patients>
  <intervention>Single test of prostate-specific antigen
- <bullet>Every _ years</bullet>
- <bullet>Duration of screening __ years</bullet>
- <bullet>Mean tests performed: __ tests per male</bullet>
- <bullet>PSA level defined as abnormal: _ ng per mL</bullet>
+ <bullet>Mean tests performed: 0.36 tests per male</bullet>
+ <bullet>PSA level defined as abnormal: 3 ng per mL</bullet>
  </intervention>
  <comparison>Usual care
- <bullet>Contamination rate: __of controls ()</bullet>
- <bullet>Mean tests performed: __ ()</bullet>
+ <bullet>Contamination rate: 12% of controls</bullet>
+ <bullet>Mean tests performed: 0.12</bullet>
 </comparison>
 <outcome>
- <bullet type='primary' url=''>___</bullet>
+ <bullet type='primary' url=''>Death from prostate cancer at 10 years</bullet>
  </outcome>
 </study>
 
